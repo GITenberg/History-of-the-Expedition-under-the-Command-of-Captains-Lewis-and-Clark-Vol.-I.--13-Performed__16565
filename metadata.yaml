@@ -5,7 +5,7 @@ contributor:
     agent_name: Jefferson, Thomas
     alias: United States President (1801-1809)
     birthdate: 1743
-    deathdate: &id001 1826
+    deathdate: 1826
     gutenberg_agent_id: '1638'
     url: http://www.gutenberg.org/2009/agents/1638
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Jefferson
@@ -29,10 +29,12 @@ creator:
   editor:
     agent_name: Allen, Paul
     birthdate: 1775
-    deathdate: *id001
+    deathdate: 1826
     gutenberg_agent_id: '6793'
     url: http://www.gutenberg.org/2009/agents/6793
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16565#History-of-the-Expedition-under-the-Command-of-Captains-Lewis-and-Clark-Vol.-I.--13-Performed_
 gutenberg_issued: '2005-08-20'
 gutenberg_type: Text
 identifiers:
